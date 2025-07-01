@@ -64,18 +64,6 @@ README.md       # Plik z instrukcją
 - Python
 - Pygame
 
----
-
-## 💡 Pomysły na rozwój
-
-- Dodanie efektów dźwiękowych
-- Licznik trafień i nietrafionych baloników
-- Więcej wzorców ruchu baloników
-- System zapisu najlepszych wyników
-- Tryb multiplayer (lokalny lub online)
-- Urozmaicone grafiki baloników
-- Animacje wybuchu baloników
-- Dodatkowe przeszkody na wyższych poziomach
 
 ---
 
