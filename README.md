@@ -20,7 +20,7 @@ pip install pygame
 ### Uruchomienie gry:
 
 ```bash
-python gra.py
+python app.py
 ```
 
 ---
