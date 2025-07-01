@@ -53,7 +53,7 @@ python gra.py
 ## 🧩 Struktura projektu
 
 ```
-gra.py          # Główny plik z kodem gry
+app.py          # Główny plik z kodem gry
 README.md       # Plik z instrukcją
 ```
 
